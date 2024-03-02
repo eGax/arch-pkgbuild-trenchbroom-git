@@ -7,4 +7,9 @@ To build TB in your Arch distro of choice from a terminal :
 `makepkg -si`<br>
 
 <br>
-If you want to use the last official release build of TrenchBroom that is 2023.1, highly recommend using my AUR trenchbroom-bin https://aur.archlinux.org/packages/trenchbroom-bin 
+If you want to use the last official release build of TrenchBroom that is 2023.1, highly recommend using my AUR trenchbroom-bin : <br>
+
+https://aur.archlinux.org/packages/trenchbroom-bin <br><br>
+or the backup:
+
+https://github.com/eGax/arch-pkgbuild-trenchbroom
