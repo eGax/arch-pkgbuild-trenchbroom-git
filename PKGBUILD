@@ -6,10 +6,9 @@ pkgver=v2024.1.RC2.r19.gce15d1158
 pkgrel=1
 pkgdesc="TrenchBroom is a free (GPLv3+), cross platform level editor for Quake-engine based games. It supports Quake, Quake 2, and Hexen 2.
 This is the current commit build off of TrenchBroom's main GitHub branch. If you want the last official release use trenchbroom-bin."
-arch=("x86_64")
 arch=("i686" "x86_64")
 url="https://trenchbroom.github.io/"
-license=("GPLv3")
+license=("GPL3")
 
 makedepends=("git" "pandoc" "qt5-base" "cmake" "ninja" "qt5-svg" "libxcb" "zip" "unzip")
 depends=("freeimage" "freetype2" "mesa" "libgl" "freeglut" "libxxf86vm" "glew" "glm" "tinyxml2")
