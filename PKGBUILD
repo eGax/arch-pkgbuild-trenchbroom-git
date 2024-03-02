@@ -5,8 +5,7 @@ pkgname=trenchbroom-git
 pkgver=v2024.1.RC2.r19.gce15d1158
 pkgrel=1
 pkgdesc="TrenchBroom is a free (GPLv3+), cross platform level editor for Quake-engine based games. It supports Quake, Quake 2, and Hexen 2.
-This is the current commit build off of TrenchBroom's main GitHub branch. If you want the last official release use trenchbroom-bin.
- x86_64 Ubuntu Release version of TrenchBroom 2023.1. For a current commit build use trenchbroom-git."
+This is the current commit build off of TrenchBroom's main GitHub branch. If you want the last official release use trenchbroom-bin."
 arch=("x86_64")
 arch=("i686" "x86_64")
 url="https://trenchbroom.github.io/"
